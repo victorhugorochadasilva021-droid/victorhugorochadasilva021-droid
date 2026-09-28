@@ -80,22 +80,4 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
 
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorhugorochadasilva021-droid&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
- align="left" 
- alt="GitHub Stats" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugorochadasilva021-droid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
 </p>
