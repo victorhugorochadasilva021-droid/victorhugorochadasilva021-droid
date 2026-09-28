@@ -36,9 +36,7 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
 
 ### 🎯 Objetivos
 
-* Aprender cada vez mais sobre programação
 * Desenvolver projetos práticos em Python
-* Aprimorar meus conhecimentos em Git e GitHub
 * Construir um portfólio sólido de projetos
 * Ingressar profissionalmente na área de tecnologia
 
