@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Me chamo Victor Hugo, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atualmente estou estudando Python e desenvolvimento de software, buscando evoluir minhas habilidades em programação, lógica e desenvolvimento de projetos. Sou apaixonado por tecnologia, hardware e games, e utilizo este perfil para compartilhar meus projetos e experiências durante minha jornada como desenvolvedor.
+Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atualmente estou estudando Python e desenvolvimento de software, buscando evoluir minhas habilidades em programação, lógica e desenvolvimento de projetos. Sou apaixonado por tecnologia, hardware e games, e utilizo este perfil para compartilhar meus projetos e experiências durante minha jornada como desenvolvedor.
 
 <p align="left">
     <a href="https://github.com/victorhugorochadasilva021-droid?tab=followers">
