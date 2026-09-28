@@ -12,10 +12,17 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
             src="https://custom-icon-badges.demolab.com/github/followers/victorhugorochadasilva021-droid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/victorhugorochadasilva021-droid?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/victorhugorochadasilva021-droid?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
     <a href="https://github.com/victorhugorochadasilva021-droid?tab=repositories">
         <img 
             alt="Repositórios" 
-            title="Meus projetos" 
+            title="Meus repositórios" 
             src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-181717?style=for-the-badge&logo=repo&logoColor=white"
         />
     </a>
@@ -25,11 +32,42 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img 
+ align="left" 
+ alt="Python" 
+ title="Python"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> <img 
+ align="left" 
+ alt="Git" 
+ title="Git"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/> <img 
+ align="left" 
+ alt="GitHub" 
+ title="GitHub"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/> <img 
+ align="left" 
+ alt="HTML5" 
+ title="HTML5"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/> <img 
+ align="left" 
+ alt="CSS3" 
+ title="CSS3"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -45,23 +83,19 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
 ### 📊 Estatísticas
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=victorhugorochadasilva021-droid&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=victorhugorochadasilva021-droid&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img
- align="left"
- alt="Tecnologias"
- height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugorochadasilva021-droid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+<img 
+ align="left" 
+ alt="GitHub Stats" 
+ height="200" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugorochadasilva021-droid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-
-</p>
-
-<br clear="both"/>
 
 </p>
