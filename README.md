@@ -48,13 +48,6 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 /> <img 
  align="left" 
- alt="GitHub" 
- title="GitHub"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/> <img 
- align="left" 
  alt="HTML5" 
  title="HTML5"
  width="30px" 
