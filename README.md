@@ -80,4 +80,24 @@ Me chamo Victor Hugo Rocha, tenho 17 anos e sou do Rio de Janeiro, Brasil. Atual
 
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="./profile/stats.svg"
+  />
+
+  <img
+    align="left"
+    alt="Tecnologias"
+    height="200"
+    src="./profile/top-langs.svg"
+  />
+</p>
+
+<br clear="both"/>
+
 </p>
